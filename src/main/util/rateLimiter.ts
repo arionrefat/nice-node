@@ -1,4 +1,9 @@
 /**
+ * Code initially taken from https://github.com/wankdanker/node-function-rate-limit
+ * MIT License - Copyright (c) 2012 Daniel L. VerWeire
+ */
+
+/**
  * Rate limiting utility function
  * @param limitCount Maximum number of calls allowed within the interval
  * @param limitInterval Time interval in milliseconds
